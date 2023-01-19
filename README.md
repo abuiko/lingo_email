@@ -1,0 +1,1 @@
+Remade responsive Email from Duolingo using HTML tables  
